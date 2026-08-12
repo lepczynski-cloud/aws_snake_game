@@ -1,6 +1,8 @@
 # AWS Snake Game
 
-A classic Snake game with an AWS twist! Collect AWS service icons instead of regular food.
+A classic Snake game with an AWS twist! Collect AWS service icons instead of regular food. Created with Amazon Q Developer CLI. 
+
+Short video on YouTube https://www.youtube.com/shorts/kZpl59YmjXo
 
 ## Features
 
